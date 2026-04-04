@@ -1,4 +1,4 @@
- mvkvmvjnmmmmhkvhggbbbbhhnnbpackage pureparc;
+bnnnnnn mvkvmvjnmmmmhkvhggbbbbhhnnbpackage pureparc;
 
 class HashTable {
 	     private int tableSize;
