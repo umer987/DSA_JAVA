@@ -1,4 +1,4 @@
-package pureparc;
+nnbpackage pureparc;
 
 class HashTable {
 	     private int tableSize;
