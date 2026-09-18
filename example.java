@@ -24,3 +24,4 @@ int temp;
 			}
 		}
 		
+		System.out.println("sorted array");
