@@ -1,7 +1,6 @@
 package dsap1;
 
 public class Algo {
-    // Bubble Sort function
    
 
 	public static void main(String[] args) {
