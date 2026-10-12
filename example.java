@@ -6,7 +6,7 @@ public class Algo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] a = {5,1,6,2,4,3};
-		System.out.println("::::::::::::::::::::::::::::SIMPLE BUBBLE SORT PROGRAM::::::::::::::::::::::::");
+		System.out.println("SIMPLE BUBBLE SORT PROGRAM");
 
 		System.out.println("unsorted array");
 		for (int i = 0; i < a.length; i++) {
